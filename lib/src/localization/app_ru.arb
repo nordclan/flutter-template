@@ -1,0 +1,30 @@
+{
+  "appTitle": "Простой проект",
+  "@appTitle": {
+    "description": "Запись в шапке"
+  },
+
+  "valueIsIncorrect": "Неверное значение",
+
+  "btnRegistration": "Зарегестрироваться",
+  "btnLogin": "Логин",
+  "btnSubmit": "Отправить",
+
+  "search": "Поиск",
+  "hello": "Привет",
+
+  "popularTitle": "Популярные маршруты",
+  "popularMore": "Еще",
+  "recomendedTitle": "Рекомендованные маршруты",
+  "recomendedMore": "Больше",
+
+  "peoples": "людей",
+  "days": "дней",
+
+  "hintEmail": "Введите емейл",
+  "hintPassword": "Введите пароль",
+  "hintRPassword": "Повторите пароль",
+  "labelEmail": "Электронная почта",
+  "labelPassword": "Пароль",
+  "labelRPassword": "Подтверждение пароля"
+}

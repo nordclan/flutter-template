@@ -1,0 +1,31 @@
+{
+  "appTitle": "sample_project",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "valueIsIncorrect": "Value is incorrect",
+
+  "btnRegistration": "Sign Up",
+  "btnLogin": "Login",
+  "btnSubmit": "Submit",
+  
+  "search": "Search",
+  "hello": "Hello",
+
+  "popularTitle": "Popular group trips",
+  "popularMore": "See all",
+  "recomendedTitle": "Recomended trips",
+  "recomendedMore": "More",
+
+
+  "peoples": "peoples",
+  "days": "days",
+
+  "hintEmail": "Enter your email",
+  "hintPassword": "Enter password",
+  "hintRPassword": "Repeat password",
+  "labelEmail": "Email",
+  "labelPassword": "Password",
+  "labelRPassword": "Repeat password"
+}
